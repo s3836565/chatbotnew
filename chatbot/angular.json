@@ -120,5 +120,8 @@
         }
       }
     }},
-  "defaultProject": "chatbot"
+  "defaultProject": "chatbot",
+  "cli": {
+    "analytics": "8f0d6383-f46e-4e44-8235-d63e197dce64"
+  }
 }

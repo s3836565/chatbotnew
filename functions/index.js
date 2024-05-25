@@ -10,7 +10,7 @@ admin.initializeApp({
 
 const { SessionsClient } = require('dialogflow');
 
-
+x
 exports.dialogflowGateway = functions.https.onRequest((request, response) => {
   cors(request, response, async () => {
     const { queryInput, sessionId } = request.body;
